@@ -1,0 +1,17 @@
+h1 {
+  font-size: x-large;
+  font-style: oblique;
+  color: red;
+}
+/* img{
+    background-color :red;width: 20%;   
+} */
+
+.broccoli {
+  background-color: red;
+  width: 20%;
+}
+.bacon {
+  background-color: green;
+  width: 20%;
+}

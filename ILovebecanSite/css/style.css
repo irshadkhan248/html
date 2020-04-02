@@ -3,10 +3,13 @@ h1 {
   font-style: oblique;
   color: red;
 }
+.secondH1 {
+  color: blue;
+}
 /* img{
     background-color :red;width: 20%;   
 } */
-
+/* ***********************class selector******************* */
 .broccoli {
   background-color: red;
   width: 20%;
@@ -14,4 +17,9 @@ h1 {
 .bacon {
   background-color: green;
   width: 20%;
+}
+/* **************************id selector***********************/
+
+#secondH1{
+  color: blue;
 }
